@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31006" started-at="2021-07-06T15:15:49Z" finished-at="2021-07-06T15:16:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31006" started-at="2021-07-06T15:15:49Z" finished-at="2021-07-06T15:16:20Z">
+      <class name="com.tests.TheScoreTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.tests.TheScoreTest@60d8c9b7]" name="initialization" is-config="true" duration-ms="8526" started-at="2021-07-06T15:15:49Z" finished-at="2021-07-06T15:15:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="getStarted_NavigatingToLeagues()[pri:0, instance:com.tests.TheScoreTest@60d8c9b7]" name="getStarted_NavigatingToLeagues" duration-ms="21903" started-at="2021-07-06T15:15:58Z" finished-at="2021-07-06T15:16:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStarted_NavigatingToLeagues -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.tests.TheScoreTest@60d8c9b7]" name="quit" is-config="true" duration-ms="549" started-at="2021-07-06T15:16:20Z" finished-at="2021-07-06T15:16:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.tests.TheScoreTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

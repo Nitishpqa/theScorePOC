@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [the Score POC Automation test Suite]">
+  <test thread-count="5" name="Automation_Test(failed)">
+    <classes>
+      <class name="com.tests.TheScoreTest">
+        <methods>
+          <include name="initialization"/>
+          <include name="getStarted_NavigatingToLeagues"/>
+        </methods>
+      </class> <!-- com.tests.TheScoreTest -->
+    </classes>
+  </test> <!-- Automation_Test(failed) -->
+</suite> <!-- Failed suite [the Score POC Automation test Suite] -->
