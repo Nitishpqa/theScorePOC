@@ -11,8 +11,8 @@ f. Page Factory Design Pattern
 
 Pre-reqs:
 =========
-Eclipse or Any IDE
-Android SDK : To launch AVD
+g. Eclipse or Any IDE
+h. Android SDK : To launch AVD
 
 Steps to run the automation :
 ===========================
